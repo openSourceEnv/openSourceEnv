@@ -1,18 +1,3 @@
-
-<!DOCTYPE HTML>
-<html lang="en" style="min-height:100%;">
-<meta http-equiv="refresh" content="0; URL=[notions-share-to-web-url](https://www.notion.so/Teamspace-Home-913399bce8764b36ad8e928a0083af45?pvs=4)"> <!-- edit this line -->
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-</head>
-
-<body style="background:black;">
-    <h1>Loading...</h1>
-</body>
-
-</html>
-
 <!--
 - 👋 Hi, I’m @openSourceEnv
 - 👀 I’m passionate about contributing to the developer and learner community through free and open-source projects.
